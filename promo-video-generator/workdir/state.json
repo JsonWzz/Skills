@@ -1,0 +1,33 @@
+{
+  "scenes": {
+    "1": {
+      "image": "workdir/scene_1.png",
+      "image_url": "https://json-picture-bucket.oss-cn-hangzhou.aliyuncs.com/promo-img-20261026-34880c83.png",
+      "clip": "workdir/clip_1.mp4",
+      "audio": "workdir/audio_1.mp3"
+    },
+    "2": {
+      "image": "workdir/scene_2.png",
+      "image_url": "https://json-picture-bucket.oss-cn-hangzhou.aliyuncs.com/promo-img-20261026-108e1321.png",
+      "clip": "workdir/clip_2.mp4",
+      "audio": "workdir/audio_2.mp3"
+    },
+    "3": {
+      "image": "workdir/scene_3.png",
+      "image_url": "https://json-picture-bucket.oss-cn-hangzhou.aliyuncs.com/promo-img-20261026-e98c3f48.png",
+      "clip": "workdir/clip_3.mp4",
+      "audio": "workdir/audio_3.mp3"
+    },
+    "4": {
+      "image": "workdir/scene_4.png",
+      "image_url": "https://json-picture-bucket.oss-cn-hangzhou.aliyuncs.com/promo-img-20261026-9fcb5f2e.png",
+      "clip": "workdir/clip_4.mp4",
+      "audio": "workdir/audio_4.mp3"
+    },
+    "5": {
+      "image": "workdir/scene_5.png",
+      "image_url": "https://json-picture-bucket.oss-cn-hangzhou.aliyuncs.com/promo-img-20261027-b1446470.png",
+      "clip": "workdir/clip_5.mp4"
+    }
+  }
+}

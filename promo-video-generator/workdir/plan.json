@@ -1,0 +1,63 @@
+{
+  "title": "19.5k星！这个开源AI短剧神器太强了",
+  "cover_prompt": "极简科技风竖版封面：中央悬浮发光的无限画布UI界面，叠加卡通风格短剧分镜格+AI芯片图标，蓝紫渐变背景，顶部留白区写标题文字，干净无边框，扁平插画风格，1024*1536",
+  "scenes": [
+    {
+      "index": 1,
+      "narration": "GitHub爆火19.5k星！Toonflow是专为短剧/漫剧打造的开源AI创作平台。",
+      "on_screen_text": "🔥19.5k星｜AI短剧一站式开源平台",
+      "image_prompt": "扁平插画风，竖版9:16，中央是发光的‘Toonflow’LOGO与动态分镜格拼贴，背景为蓝灰渐变科技网格，左上角GitHub星标徽章，极简无文字干扰",
+      "video_prompt": "镜头从GitHub星标徽章快速推进至中央LOGO，分镜格逐格亮起，伴随轻微缩放+粒子光效，前3秒高亮‘19.5k STAR’浮动字",
+      "need_image": true,
+      "image_size": "1024*1536",
+      "video_duration": 5
+    },
+    {
+      "index": 2,
+      "narration": "剧本→分镜→角色→图像→视频，全流程AI驱动，无限画布自由编排。",
+      "on_screen_text": "✅剧本→分镜→视频｜无限画布工作流",
+      "image_prompt": "竖版9:16极简界面图：居中展示无限画布节点式工作流（剧本节点→分镜节点→角色节点→视频节点），蓝白主色，箭头连接，微光描边，无冗余文字",
+      "video_prompt": "镜头横向滑动浏览画布节点，每个节点依次高亮+脉冲放大，节点间连线流动蓝光，节奏轻快",
+      "need_image": true,
+      "image_size": "1024*1536",
+      "video_duration": 5
+    },
+    {
+      "index": 3,
+      "narration": "MIT协议开源，支持本地部署、自选模型，还能接ComfyUI和AI Agent。",
+      "on_screen_text": "🔓MIT开源｜本地部署｜自由接入模型",
+      "image_prompt": "竖版9:16扁平插画：中央是齿轮+服务器+AI大脑组合图标，环绕‘Local’‘ComfyUI’‘MCP’‘Agent’四个标签，蓝紫灰配色，背景留白干净",
+      "video_prompt": "中心图标旋转浮现，四周标签由虚转实弹入，带轻微弹跳动画，背景浮现代码片段淡入淡出",
+      "need_image": true,
+      "image_size": "1024*1536",
+      "video_duration": 5
+    },
+    {
+      "index": 4,
+      "narration": "桌面端、安卓、Docker全支持，三行命令就能启动开发环境。",
+      "on_screen_text": "💻Win/Mac/Android｜Docker一键启",
+      "image_prompt": "竖版9:16：底部并列三个设备轮廓（MacBook、安卓手机、Docker鲸鱼图标），上方悬浮终端窗口显示‘bun run dev’命令，蓝灰科技风，无阴影",
+      "video_prompt": "终端命令打字动画出现，随后三设备图标从下向上轻弹入位，同步发出柔和提示音效",
+      "need_image": true,
+      "image_size": "1024*1536",
+      "video_duration": 5
+    },
+    {
+      "index": 5,
+      "narration": "短剧创作者、漫剧团队、教育机构都在用——零门槛玩转AI视频创作。",
+      "on_screen_text": "🎯谁在用？短剧人｜漫剧组｜教师｜个人创作者",
+      "image_prompt": "竖版9:16扁平人物插画：四类剪影小人（戴耳机创作者、漫画师、老师、学生）围在发光画布旁，蓝紫主色，简洁线条，无文字",
+      "video_prompt": "四人物剪影依次点亮，画布中央浮现‘TOONFLOW’动态字样，背景泛起波纹光效，结尾定格",
+      "need_image": true,
+      "image_size": "1024*1536",
+      "video_duration": 5
+    }
+  ],
+  "video_parameters": {
+    "resolution": "720P",
+    "ratio": "9:16",
+    "audio": true,
+    "prompt_extend": true,
+    "watermark": false
+  }
+}
